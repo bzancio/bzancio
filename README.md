@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bzancio
-- 👀 I’m interested in ALL
-- 🌱 I’m currently learning HMTL, CSS, JS, GIT, ...
-- 📫 How to reach me: bzancio@gmail.com
+- 👋 Hola, soy @bzancio
+- 👀 Estoy interesado en cualquier rama de la tecnologia, soy una persona curiosa y proactiva
+- 🌱 Actualment estoy estudiando un grado medio en sistemas microinformaticos y redes
+- 📫 Contactame: bzancio@gmail.com
 
 <!---
 bzancio/bzancio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
